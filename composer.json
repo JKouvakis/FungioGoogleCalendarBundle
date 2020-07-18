@@ -25,10 +25,10 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-0": {
-            "Fungio\\GoogleCalendarBundle\\": ""
+            "JKouvakis\\GoogleCalendarBundle\\": ""
         }
     },
-    "target-dir": "Fungio/GoogleCalendarBundle",
+    "target-dir": "JKouvakis/GoogleCalendarBundle",
     "extra": {
         "branch-alias": {
             "dev-master": "4.3.x-dev"
